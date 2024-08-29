@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "list_bubble_sort.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "patient.h": "c",
+        "doctor.h": "c",
+        "manager.h": "c",
+        "stdlib.h": "c",
+        "fcntl.h": "c",
+        "framebuffer.h": "c"
+    }
+}
